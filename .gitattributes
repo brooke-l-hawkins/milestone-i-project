@@ -1,0 +1,2 @@
+data/raw/globalterrorismdb_0919dist.xlsx filter=lfs diff=lfs merge=lfs -text
+terrorism.csv filter=lfs diff=lfs merge=lfs -text
